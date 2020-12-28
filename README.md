@@ -13,4 +13,4 @@ Allows you to listen along with discord users without premium.
 - If you haven't already, fully restart discord
 
 # Support
-- eternal#0404
+- eternal#1000
