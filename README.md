@@ -11,6 +11,3 @@ Allows you to listen along with discord users without premium.
 - Make sure you only have one spotify account connected to your discord
 - Make sure you are logged into the spotify desktop app with that same account
 - If you haven't already, fully restart discord
-
-# Support
-- eternal#1000
