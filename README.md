@@ -1,4 +1,4 @@
-# Spotify Crack [![CodeFactor](https://www.codefactor.io/repository/github/slow/spotify-crack/badge)](https://www.codefactor.io/repository/github/slow/spotify-crack) [![GitHub issues](https://img.shields.io/github/issues/slow/spotify-crack?style=flat)](https://github.com/slow/spotify-crack/issues) [![GitHub stars](https://img.shields.io/github/stars/slow/spotify-crack?style=flat)](https://github.com/slow/spotify-crack/stargazers)
+# Spotify Crack [![CodeFactor](https://www.codefactor.io/repository/github/slow/spotify-crack/badge)](https://www.codefactor.io/repository/github/slow/spotify-crack) [![GitHub issues](https://img.shields.io/github/issues/slow/spotify-crack?style=flat)](https://github.com/slow/spotify-crack/issues) [![GitHub stars](https://img.shields.io/github/stars/slow/spotify-crack?style=flat)](https://github.com/slow/spotify-crack/stargazers) [![Support](https://img.shields.io/discord/875126204758360094)](https://discord.gg/shnvz5ryAt)
 Allows you to listen along with discord users without premium.
 
 # Requirements
