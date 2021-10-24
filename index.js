@@ -1,9 +1,9 @@
-const { Plugin } = require('powercord/entities');
+const { FluxDispatcher: Dispatcher, getModule } = require('powercord/webpack');
 const { inject, uninject } = require('powercord/injector');
-const { getModule } = require('powercord/webpack');
+const { Plugin } = require('powercord/entities');
+
 const isPremium = getModule(['isSpotifyPremium'], false);
 const Profile = getModule(['getProfile'], false);
-const Dispatcher = getModule(['dispatch'], false);
 
 module.exports = class extends Plugin {
    startPlugin() {
