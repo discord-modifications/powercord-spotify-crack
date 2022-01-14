@@ -7,6 +7,7 @@ const Profile = getModule(['getProfile'], false);
 
 module.exports = class extends Plugin {
    startPlugin() {
+      require('powercord/webpack').getModule(['isSpotifyPremium'], false).isSpotifyPremium = () => true
       inject('spotify-crack', Profile, 'getProfile', async function (args) {
          inject('spotify-crack1', isPremium, 'isSpotifyPremium', async function (_) {
             return true;
